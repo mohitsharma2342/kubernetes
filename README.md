@@ -9,3 +9,5 @@ $ docker build . --tag demo
 Then we can test it:
 
 $ docker run -it -p8080:8080 demo:latest
+
+https://static.brandonpotter.com/kubernetes/DeploymentBuilder.html
